@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-        Render all your lists here. Pass the arrays as props.
+      Render all your lists here. Pass the arrays as props, props.
     </div>
   );
 }

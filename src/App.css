@@ -32,7 +32,30 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.color-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.color-item {
+  width: 200px;
+  border: solid 1px black;
+  margin: 8px;
+}
+
+.cats-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.cats-item {
+  width: 200px;
+  border: solid 1px black;
+  margin: 8px;
 }

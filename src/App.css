@@ -70,3 +70,14 @@
   border: solid 1px black;
   margin: 8px;
 }
+
+.albums-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.albums-item {
+  width: 200px;
+  border: solid 1px black;
+  margin: 8px;
+}

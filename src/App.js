@@ -12,6 +12,7 @@ import { albums } from './AlbumsData.js';
 function App() {
   return (
     <div className="App">
+      <p>Lists of lists</p>
       <ColorList colors={colors} />
       <CatsList cats={cats} />
       <AmpsList amps={amps} />
